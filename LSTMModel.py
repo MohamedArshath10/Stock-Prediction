@@ -18,6 +18,11 @@ df = yf.download(user_input, start=start, end=end, auto_adjust=False)
 # Describing data
 st.subheader('Data from 2010 - 2024')
 st.write(df.describe())
+
+# Visualization
+st.
+
+
 # df = df.reset_index()
 # df = df.drop(('Date', ''), axis=1)
 # df = df.drop(('Adj Close', 'AAPL'), axis=1)
