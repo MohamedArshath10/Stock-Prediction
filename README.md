@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📈 Stock Market Predictor
+#  Stock Market Predictor
 
 ### A machine learning web app that predicts stock prices and forecasts the next 30 days using JAX neural networks.
 
